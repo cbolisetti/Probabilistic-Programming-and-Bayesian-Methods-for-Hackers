@@ -8,5 +8,3 @@ tornado>=3.0.2
 wsgiref>=0.1.2
 praw>=2.0.0
 jinja2
-##test addition##
-whoops
